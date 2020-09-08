@@ -10,7 +10,9 @@ body
     margin: 0;
     padding: 0;
 }
-
+div{
+    background: red;
+}
 #cabecera
 {
     background: #37488b;
